@@ -1,0 +1,23 @@
+{
+  "name": "koa2",
+  "version": "1.0.0",
+  "description": "Koa2是现在最流行的基于Node.js平台的web开发框架，它很小，但扩展性很强。Koa给人一种干净利落的感觉，体积小、编程方式干净。国内很多知名互联网公司都在使用，BAT（百度、阿里、腾讯）全部都在使用。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tianshaojun/Koa2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tianshaojun/Koa2/issues"
+  },
+  "homepage": "https://github.com/tianshaojun/Koa2#readme",
+  "dependencies": {
+    "koa": "^2.13.0"
+  }
+}
