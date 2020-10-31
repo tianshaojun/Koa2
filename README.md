@@ -8,6 +8,12 @@ Koa开发环境搭建
 
 async和await的使用方法
 
+### 3.demo03.js
+
+get请求的接受
+
+
+
 
 
 
